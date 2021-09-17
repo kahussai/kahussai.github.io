@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Persoanl Website
+title: Khaled Hussain
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Foundations of Data Science Part II
 
 # Your name to show in the footer
 author: Kahussai
@@ -103,10 +103,10 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#FF6600"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#F0F0F0"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
